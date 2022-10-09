@@ -159,5 +159,28 @@
     "brake-id": 2,
     "rim-diameter": 27,
     "number-gears": 10
+  },
+  {
+    "title": "Cube '19 Stereo",
+    "price": 900,
+    "year": 2019,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 29,
+    "number-gears": 0
   }
 ]
