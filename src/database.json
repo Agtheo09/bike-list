@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Giant '13 Reign sx",
+    "price": 1300,
+    "year": 2013,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 26,
+    "number-gears": 20
+  },
+  {
+    "title": "Cube '16 Stereo 120 HPA SL Black/Green",
+    "price": 1500,
+    "year": 2016,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 27,
+    "number-gears": 0
+  },
+  {
+    "title": "Cube '18 Stereo HPA 120",
+    "price": 1200,
+    "year": 2018,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 29,
+    "number-gears": 22
+  },
+  {
+    "title": "Kona '12 DAWG PRIMO",
+    "price": 1150,
+    "year": 2012,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 1,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 26,
+    "number-gears": 27
+  },
+  {
+    "title": "Nakamura '20",
+    "price": 1100,
+    "year": 2020,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 27,
+    "number-gears": 9
+  },
+  {
+    "title": "Saracen '13 Ariel 16x",
+    "price": 1050,
+    "year": 2013,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 26,
+    "number-gears": 0
+  },
+  {
+    "title": "Ποδήλατο full suspension '14 Foes fxr",
+    "price": 1000,
+    "year": 2014,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 27,
+    "number-gears": 10
+  },
+  {
+    "title": "Cube '19 Stereo",
+    "price": 900,
+    "year": 2019,
+    "categories": [
+      "road",
+      "mountain",
+      "full-suspension",
+      "dirt-jumper",
+      "downhill"
+    ],
+    "category-id": 2,
+    "supension-types": ["no suspension", "front suspension", "full suspension"],
+    "suspension-id": 2,
+    "brake-types": [
+      "v-brakes",
+      "mechanical disk-brakes",
+      "hydraulic disk-brakes"
+    ],
+    "brake-id": 2,
+    "rim-diameter": 29,
+    "number-gears": 0
+  }
+]
